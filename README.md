@@ -1,4 +1,4 @@
-# 🚀 Ajite007 | Senior Project Lead & Consultant
+# 🚀 Senior Project Lead & Consultant
 
 Welcome to my GitHub! I'm a **Senior Project Lead & Consultant** specializing in enterprise automation, workflow orchestration, and AI-driven solutions. With deep expertise in **.NET ecosystem and AWS cloud architecture**, I help organizations build scalable, intelligent systems that transform their operations.
 
